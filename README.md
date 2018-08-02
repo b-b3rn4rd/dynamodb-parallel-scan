@@ -1,6 +1,6 @@
 Golang DynamoDB parallel scan
 =================================
-The following repository provides DynamoDB scan function that performs a parallel scan exampled [here](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html#Scan.ParallelScan)
+The following repository provides DynamoDB scan function that performs a parallel scan explained [here](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html#Scan.ParallelScan)
 
 Usage
 ==============
