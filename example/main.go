@@ -13,7 +13,7 @@ func main() {
 
 	ctx := context.Background()
 
-	tableName := "lm201806131600_sec"
+	tableName := "me_table_name"
 	parallelScanWorkers := 1
 	scanItemLimit := 600
 
